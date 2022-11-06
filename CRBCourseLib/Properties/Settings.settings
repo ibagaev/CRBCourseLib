@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CRBCourseLib.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DailyCourseEndpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/scripts/XML_daily.asp</Value>
+    </Setting>
+    <Setting Name="CRBUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.cbr.ru</Value>
+    </Setting>
+    <Setting Name="ValutaDirEndpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/scripts/XML_valFull.asp</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
